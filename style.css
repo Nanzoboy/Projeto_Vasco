@@ -79,6 +79,7 @@ button{
     font-size: 11px;
     padding: 3px;
     border-radius: 3px;
+    border-color: black;
     cursor: pointer;
     margin-top: 8px;
     background-color: transparent;
@@ -125,6 +126,7 @@ input{
     font-family: 'Pathway Extreme', sans-serif;
     font-weight: bold;
     background-color: rgb(238, 238, 238);
+    border-color: white;
     
 }
 form textarea{
