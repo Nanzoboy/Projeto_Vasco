@@ -127,7 +127,10 @@ input{
     font-weight: bold;
     background-color: rgb(238, 238, 238);
     border-color: white;
-    
+}
+.message button:hover{
+    transition: 0.3s;
+    background-color: rgb(198, 198, 198);
 }
 form textarea{
     height: 200px;
