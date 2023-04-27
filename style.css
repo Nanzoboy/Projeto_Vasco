@@ -77,7 +77,7 @@ section .second-produts p{
 }
 button{
     font-size: 11px;
-    padding: 2px;
+    padding: 3px;
     border-radius: 3px;
     cursor: pointer;
     margin-top: 8px;
@@ -123,6 +123,9 @@ input{
     display: block;
     width: 70px;
     font-family: 'Pathway Extreme', sans-serif;
+    font-weight: bold;
+    background-color: rgb(238, 238, 238);
+    
 }
 form textarea{
     height: 200px;
@@ -134,3 +137,4 @@ form textarea{
     text-decoration: none;
     height: 60px;
 }
+
